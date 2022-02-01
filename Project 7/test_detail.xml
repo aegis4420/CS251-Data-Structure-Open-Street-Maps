@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="17" failures="0" disabled="0" errors="0" timestamp="2021-10-26T05:03:04" time="10.265" name="AllTests">
+  <testsuite name="graph" tests="17" failures="0" disabled="0" errors="0" time="10.265">
+    <testcase name="test1" status="run" time="0" classname="graph" />
+    <testcase name="test2" status="run" time="0" classname="graph" />
+    <testcase name="test3" status="run" time="0" classname="graph" />
+    <testcase name="test4" status="run" time="0" classname="graph" />
+    <testcase name="test5" status="run" time="0" classname="graph" />
+    <testcase name="test6" status="run" time="0" classname="graph" />
+    <testcase name="test7" status="run" time="0.001" classname="graph" />
+    <testcase name="test8" status="run" time="0" classname="graph" />
+    <testcase name="test9" status="run" time="0" classname="graph" />
+    <testcase name="test10" status="run" time="0" classname="graph" />
+    <testcase name="test11" status="run" time="0.001" classname="graph" />
+    <testcase name="test12" status="run" time="0" classname="graph" />
+    <testcase name="test13" status="run" time="0" classname="graph" />
+    <testcase name="test14" status="run" time="0.104" classname="graph" />
+    <testcase name="test15" status="run" time="2.21" classname="graph" />
+    <testcase name="test16" status="run" time="2.725" classname="graph" />
+    <testcase name="test17" status="run" time="5.224" classname="graph" />
+  </testsuite>
+</testsuites>
